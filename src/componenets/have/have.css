@@ -1,0 +1,17 @@
+.nav-tabs .nav-link{
+    color: black;
+    font-size: 20px;
+    padding-top: 50px;
+    border: none;
+}
+.mug{
+    padding-top: 50px;
+}
+.kui {
+    text-align: center;
+    padding-top: 120px;
+}
+.kui h2{
+    font-size: 54px;
+    font-weight: 600;
+}

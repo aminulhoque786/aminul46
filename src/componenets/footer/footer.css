@@ -1,0 +1,97 @@
+#footer{
+ 
+    padding: 100px 0;
+
+}
+a{
+    text-decoration: none;
+}
+.tank{
+    padding: 40px;
+}
+.ugu a{
+font-size: 20px;
+text-decoration: none;
+padding: 10px 10px;
+text-align: center;
+align-items: center;
+font-family: "Nunito", sans-serif;
+font-size: 20px;
+font-weight: 600px;
+color: #29313D;
+display: flex;
+}
+.ugu{
+    padding-left: 40px;
+}
+.ugu h4{
+font-weight: 700;
+}
+.nugu h4{
+    font-weight: 700;
+    padding-left: 30px;
+}
+.tank img{
+    width:150px;
+}
+.lugu h4{
+padding-left: 10px;
+    font-weight: 700;
+}
+.nugu a{
+font-size: 10px;
+text-decoration: none;
+padding: 10px 4px;
+text-align: center;
+align-items: center;
+font-family: "Nunito", sans-serif;
+font-size: 20px;
+font-weight: 600px;
+color: #29313D;
+display: flex;
+}
+.lugu a{
+font-size: 10px;
+text-align: center;
+text-decoration: none;
+padding: 10px 2px;
+text-align: center;
+align-items: center;
+font-family: "Nunito", sans-serif;
+font-size: 20px;
+font-weight: 600px;
+color: #29313D;
+display: flex;
+}
+.tank p{
+    padding-top: 20px;
+    width:449px;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 20px;
+}
+.pus h3{
+    padding-top: 90px;
+    font-size: 20px;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+}
+.pus h2{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Paprika", system-ui;
+    opacity: 90%;
+}
+.gud h3{
+    padding-top: 90px;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+}
+@media (max-width: 950px){
+.tank p{
+    width: 250px;
+}
+
+}
+

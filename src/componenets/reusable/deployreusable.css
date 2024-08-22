@@ -1,0 +1,40 @@
+.till{
+    display: flex;
+   
+}
+#text{
+    padding: 100px 3px;
+}
+.deploying{
+    display: flex;
+    width:357px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    background-color: bisque;
+
+    padding: 30px 20px;
+}
+.deploying img{
+    width :30px;
+    
+    height:40px;
+}
+.hipe h2{
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+}
+.hipe {
+    padding-left:20px ;
+    border-left: 2px solid #a79d9d;
+}
+.hipe p{
+    font-size: 18px;
+    font-weight: 600;
+    opacity: 80%;
+}
+.deploying:hover{
+    background-color: rgb(177, 192, 45);
+    transition: .9s;
+}

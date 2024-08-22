@@ -1,0 +1,73 @@
+
+@media (max-width: 950px)  {
+    
+    
+    .menu a{
+        text-align: center;
+        background-color: rgb(182, 250, 250);
+       
+        
+    }
+
+    .navbar-nav a{
+        padding: 10px 0px;
+         
+      }
+      .navbar-nav{
+        column-gap: 30px;
+        color: white;
+    
+    }
+    .navbar-collapse {
+        text-align: center;
+        background-color: rgb(182, 250, 250);
+        padding: 10px 10px;
+        opacity: 80%;
+    }
+    #banner {
+        padding: 170px 10px;
+        background-color: #FAD0BC;
+        
+      }
+      .hero{
+        padding-top: 40px;
+      }
+      .hero img{
+        width:280px;
+        margin-right: 40px;
+      }
+      #deploy {
+        padding-top: 0px;
+      }
+      .deploying {
+      
+        width: 300px;
+      }
+      .tank{
+        width:0px;
+        padding: 0px;
+      }
+      .tank p {
+       
+      width:250px
+       
+      }
+      .gud h3 {
+        padding-top: 30px;
+       
+      }
+      #text {
+        padding: 30px 10px;
+      }
+      .deploying {
+        width: 271px;
+      }
+      .lie img{
+        width: 50px;
+      }
+      .divo h3 {
+        font-size: 20px;
+        
+      }
+}
+

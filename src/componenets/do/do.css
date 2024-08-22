@@ -1,0 +1,42 @@
+
+.mack h2{
+    font-size: 36px;
+    width:439;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    
+}
+
+.mack{
+    padding-top: 120px;
+}
+.mack p{
+    font-size: 16px;
+    width:571;
+    
+    font-family: "Paprika", system-ui;
+    font-weight: 500;
+    padding-top: 20px;
+}
+.nose{
+    background-color: #FCF5F3;
+    padding: 100px 50px;
+}
+.jiku {
+    background-color: #FCF5F3;
+    padding: 20px;
+}
+.divo{
+    padding: 20px;
+}
+.divo h3{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Open Sans", sans-serif;
+
+}
+.divo p{
+    font-size: 18px;
+    font-family: "Paprika", system-ui;
+    padding-top: 20px;
+}
